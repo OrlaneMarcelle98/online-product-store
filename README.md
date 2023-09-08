@@ -40,6 +40,10 @@ Contributions to this project are welcome. To contribute, follow these steps:
 4. Push your changes to your fork: `git push origin my-branch-name`.
 5. Create a Pull Request (PR) with a detailed description of your changes.
 
+<strong> NB:  The last version of the work developed up to this moment had a problem at the last push to github due to the size of certain files being exceeded
+If necessary, you will see the latest version on this mega link. Thank you </strong>
+https://mega.nz/file/FdAGUDxA#_Ez4-qHJLaXeOy9KhLapb9I4H3I6is4W1E7oy-crs18
+
 ## Licence
 
 This project is under the MIT license. See the [LICENSE](LICENSE) file for details.
